@@ -5,9 +5,7 @@ Carrera: Computacion
 
 ## EJEMPLO DE ADICIÓN DE DATOS EN ESTE INFORME
 
-![Figuras](figuras.png)
 ![Imagen de WhatsApp 2025-05-11 a las 22 20 09_83ff88d7](https://github.com/user-attachments/assets/fe125ac7-e462-48f7-a38b-d36d2b9d0cca)
-
 
 ##  CONCLUCIONES CON TERMINOLOGIA DE NOTACION 
 
